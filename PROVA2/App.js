@@ -12,7 +12,7 @@ function HomeScreen({ navigation }) {
       
       <View style={styles.userInfo}>
         <Text style={styles.userText}>Felipe Battarra</Text>
-        <Text style={styles.userText}>facef</Text>
+        <Text style={styles.userText}> 5 ENGS</Text>
       </View>
 
       <View style={styles.buttonContainer}>
