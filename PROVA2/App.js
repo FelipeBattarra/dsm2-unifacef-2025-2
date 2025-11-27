@@ -44,7 +44,7 @@ function MeusCompromissosScreen() {
       <View style={styles.headerContainer}>
          <Text style={styles.screenTitle}>(Eu)</Text>
          <Text style={styles.screenSubtitle}>Felipe Battarra</Text>
-         <Text style={styles.screenSubtitle}>5 ADS</Text>
+         <Text style={styles.screenSubtitle}>5 ENGS</Text>
       </View>
 
       <FlatList
@@ -86,7 +86,7 @@ function CompromissosEquipeScreen() {
        <View style={styles.headerContainer}>
          <Text style={styles.screenTitle}>(Eu)</Text>
          <Text style={styles.screenSubtitle}>Felipe Battarra</Text>
-         <Text style={styles.screenSubtitle}>5 ADS</Text>
+         <Text style={styles.screenSubtitle}>5 ENGS</Text>
       </View>
 
       <SectionList
