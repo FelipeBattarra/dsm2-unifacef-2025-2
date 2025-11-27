@@ -63,6 +63,14 @@ function MeusCompromissosScreen() {
 
 const DATA_EQUIPE = [
   {
+    title: '(Eu)',
+    data: [
+      { hora: '09h30', desc: 'Reunião "Daily"' },
+      { hora: '14h00', desc: 'Reunião com cliente Carros & Carros' },
+      { hora: '16h30', desc: 'Prazo final Projeto X' },
+    ]
+  },
+  {
     title: 'Jurema (chefe)',
     data: [
       { hora: '09h30', desc: 'Reunião "Daily"' },
